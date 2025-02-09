@@ -1,5 +1,5 @@
 # Examination System
 
-## Cmd Application for system helps for adding questions and answers for every question and choosing the correct answer for the question to implement a real exam.
+## cmd application for system helps for adding exam questions and their right/wrong answers in order to implement a real exam.
 
 ### Using C#, OOP
